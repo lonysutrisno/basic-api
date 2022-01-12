@@ -40,7 +40,7 @@ olefile==0.45.1
 onboard==1.4.1
 pexpect==4.2.1
 Pillow==5.1.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 pycairo==1.16.2
 pycparser==2.19
 pycrypto==2.6.1
